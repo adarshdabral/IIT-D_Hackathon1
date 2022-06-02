@@ -76,6 +76,10 @@ else if(distance>6)
     digitalWrite(3, LOW);
     digitalWrite(4, LOW);
 }
+
+
+
+// add comments
    else if(distance>10)
  {
      digitalWrite(2, LOW);
